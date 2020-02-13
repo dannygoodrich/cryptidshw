@@ -1,0 +1,45 @@
+* {
+    margin: 0 auto;
+    background-color: rgb(159, 194, 194);
+    
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    text-decoration: underline;
+}
+
+
+
+
+li {
+    display: inline;
+    margin: 20px;
+
+    /* text-decoration: none; */
+}
+
+a {
+    text-decoration: none;
+    color: rgb(35, 72, 88);
+    
+}
+
+a:hover {
+    text-decoration: underline black;
+}
+
+div {
+    display: flex;
+    margin: 50px;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    justify-content: center;
+    /* width: 50%; */
+    
+
+}
+#index {
+    background-color: blue;
+}
